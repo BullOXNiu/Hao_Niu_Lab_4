@@ -1,2 +1,2 @@
-# Hao_Niu_Lab_4
+# Hao Niu Lab 4
 Visualizations Lab 4
